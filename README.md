@@ -1,8 +1,15 @@
-- 👋 **Hi There**
-- **My name is Amadi Jovita Nnenna**
-- 👀 I’m interested in becoming a data analyst, ready to provide my expertise whenever needed.
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m eager to collaborate with companies, organizations and various sectors, offering data-driven insights and analytical expertise.
-- 📫 How to reach me on [linkedin].(www.linkedin.com/in/amadi-jovita-716bba2a7)
-- 😄 Pronouns: i am a lady
-- ⚡ Fun fact: 80% of the work involves cleaning and preparing data, which is essential before drawing insights and creating visualizations.
+ **Hi**
+ 
+  **I am Amadi Jovita Nnenna**
+
+**Aspiring Data Analyst, passionate about providing expert data-driven insights**
+  
+💼 Currently honing skills in Data Analysis, preparing to collaborate with businesses and organizations to drive impactful decisions.
+
+💡 Ready to contribute my analytical expertise across various sectors.
+
+📫 Connect with me on [linkedin].(www.linkedin.com/in/amadi-jovita-716bba2a7)
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: 80% of data analysis is spent cleaning and preparing data—essential steps before drawing insights or creating visualizations.
